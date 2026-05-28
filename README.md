@@ -1,0 +1,2 @@
+# b18teraformrepo
+azureinfra
